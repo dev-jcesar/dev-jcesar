@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Júlio Cesar
 
-<!--
-**dev-jcesar/dev-jcesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Acadêmico de Análise e Desenvolvimento de Sistemas** – Universidade Cruzeiro do Sul  
+🔬 **Bacharel e licenciado em Ciências Biológicas** – Universidade de Brasília (UnB)  
+🌱 **Técnico em Meio Ambiente** – Instituto Federal de Brasília (IFB)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência como professor no ensino fundamental e médio nas áreas de Ciências e Biologia.
+
+Tenho interesse em:
+- Desenvolvimento de software
+- Programação e lógica computacional
+- Banco de dados
+- Aplicações que promovam **educação, inclusão e sustentabilidade**
+
+Busco aplicar o conhecimento técnico aliado aos valores que sempre me acompanharam: empatia, ética, impacto social e aprendizado contínuo.
+
+---
+
+## 🚀 Tecnologias em aprendizado
+
+- Lógica de programação
+- HTML, CSS e JavaScript
+- Python
+- SQL e modelagem de banco de dados
+- Git e GitHub
+
+
+🧠 *“Tecnologia com propósito transforma vidas — inclusive a minha.”*
