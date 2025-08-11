@@ -1,14 +1,14 @@
 # 👋 Olá! Eu sou Júlio Cesar
 
 🎓 **Acadêmico de Análise e Desenvolvimento de Sistemas** – Universidade Cruzeiro do Sul  
-🔬 **Bacharel e licenciado em Ciências Biológicas** – Universidade de Brasília (UnB)  
-🌱 **Técnico em Meio Ambiente** – Instituto Federal de Brasília (IFB)  
+    **Bacharel** – Universidade de Brasília (UnB)  
+    **Técnico** – Instituto Federal de Brasília (IFB)  
 
 ---
 
 ## 💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência como professor no ensino fundamental e médio nas áreas de Ciências e Biologia.
+Sou acadêmico de Análise e Desenvolvimento de Sistemas.
 
 Tenho interesse em:
 - Desenvolvimento de software
