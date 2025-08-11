@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Júlio Cesar
 
-🎓 **Acadêmico de Análise e Desenvolvimento de Sistemas** – Universidade Cruzeiro do Sul  
-    **Bacharel** – Universidade de Brasília (UnB)  
-    **Técnico** – Instituto Federal de Brasília (IFB)  
+**Acadêmico de Análise e Desenvolvimento de Sistemas** – Universidade Cruzeiro do Sul  
+**Bacharel** – Universidade de Brasília (UnB)  
+**Técnico** – Instituto Federal de Brasília (IFB)  
 
 ---
 
